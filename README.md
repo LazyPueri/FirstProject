@@ -20,3 +20,6 @@ This program reads students names and their scores.
 11. Oren
 
 12. Updated README with lab instructions.
+
+## Collaboration Acknowledgement
+This project was reviewed and edbited by Omraan on GitHub.

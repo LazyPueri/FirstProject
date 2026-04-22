@@ -2,7 +2,7 @@
 Project test
 # Lab: Grade Reader
 
-Tis program reads students names and their scores.
+This program reads students names and their scores.
 
 ## How To Run
 1. Open program in your IDE.
